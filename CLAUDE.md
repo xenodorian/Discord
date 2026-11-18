@@ -14,5 +14,6 @@
 ## Reading the DM's posts (Barovia, Catan, all campaigns)
 - Each Discord user plays one character per campaign (Barovia: sideshow031 = Dax, potoooooooo = Bohdana, fleshvalleyart_maro = Zenobia, scruffy8774 = Circuit, then Zin from July 2024, and both from mid-April 2025).
 - A DM post that @tags one player and says "you" means that player's character.
-- "You" with no tag, or with an @everyone/role ping, means the whole party.
+- A DM post that is a Discord reply to a player's message (no @tag) also means that player's character. The archive pbp_full.jsonl has no reply data; use attr/replies.jsonl (ref_id, ref_author).
+- "You" with no tag and no reply link, or with an @everyone/role ping, means the whole party.
 - Never guess who "you" is from context alone; check the raw archive (pbp_full.jsonl keeps the <@id> tags) before attributing an action.
