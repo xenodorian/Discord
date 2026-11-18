@@ -10,3 +10,9 @@
 - In the Catan outline's Notes tab, start each new day's (session's) notes with a page break.
 - Put an empty paragraph above and below every header, for breathing room.
 - Indent note paragraphs to match the outline's Merchants tab: first-line indent 36 pt and left indent 36 pt. Headers and the date/party lines stay flush left.
+
+## Reading the DM's posts (Barovia, Catan, all campaigns)
+- Each Discord user plays one character per campaign (Barovia: sideshow031 = Dax, potoooooooo = Bohdana, fleshvalleyart_maro = Zenobia, scruffy8774 = Circuit, then Zin from July 2024, and both from mid-April 2025).
+- A DM post that @tags one player and says "you" means that player's character.
+- "You" with no tag, or with an @everyone/role ping, means the whole party.
+- Never guess who "you" is from context alone; check the raw archive (pbp_full.jsonl keeps the <@id> tags) before attributing an action.
